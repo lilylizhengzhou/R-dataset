@@ -1,0 +1,12 @@
+Column,Variable name,Description
+1,id,Student ID.
+2,gender,"Student's gender, with levels: female and male."
+3,race,"Student's race, with levels: african american, asian, hispanic, and white."
+4,ses,"Socio economic status of student's family, with levels: low, middle, and high."
+5,schtyp,"Type of school, with levels: public and private."
+6,prog,"Type of program, with levels: general, academic, and vocational."
+7,read,Standardized reading score.
+8,write,Standardized writing score.
+9,math,Standardized math score.
+10,science,Standardized science score.
+11,socst,Standardized social studies score.
